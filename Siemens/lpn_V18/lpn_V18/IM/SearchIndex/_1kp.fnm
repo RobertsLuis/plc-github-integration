@@ -1,0 +1,6 @@
+þÿÿÿM###id###VisulizationRootBrowsableId###TargetIdNameText.0Text.1Text.2
+AlarmClass-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIdsIlStartScreenAcknowledgementModelId###UpdatableParentIdCommonAlarmClass###SearchFilterIds	AlarmText	CycleUnit	CycleTimeTextDisplayNameTitleLanguageVersionConstant nameEvent classInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentNetwork titleLADFBD CodeCommentDatatypeAddressValue TriggerGlobalSectionCodeAsStringEventGlobalSectionCodeAsString%FunctionListGlobalSectionCodeAsStringDataTypeHmiDataTypeConditionOperatorRuleConditionRuleCommentSTL CodeInstance DBNetwork comment###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreTagAddressPanelInfoAcquisitionTriggerModeAcquisitionCycleConfirmationTypePlcNameControllerTagLimitHighConstantLimitLowConstant	JobNumber
+StartValueSubstituteValueAcknowledgementBitAddressTriggerModePlcAcknowledgementBitAddress
+TriggerTagStationNamePartnerNameNodeNameAddressAccessMode
+Connection
+AlarmText1

@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="TAGSHMINOVO Log.xml" projectName="C:\Users\Luiz Otavio\Desktop\TAGSHMINOVO.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Error" dateTime="8:47:42 AM">
+    <Message>Error found while loading file C:\Users\Luiz Otavio\Desktop\TAGSHMINOVO.xlsx, the file may be in use or read-only.</Message>
+  </LogEntry>
+</LogFile>

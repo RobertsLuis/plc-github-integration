@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="Import_ALARMESIHM Log.xml" projectName="C:\Users\Luiz Otavio\Desktop\Import_ALARMESIHM.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Warning" dateTime="10:05:31 AM">
+    <Message>The version is not specified in the XLSX file. The latest version is assumed for the import.</Message>
+  </LogEntry>
+  <LogEntry type="Information" dateTime="10:05:31 AM">
+    <Message>Import finished: 16 discrete alarms; 0 analog alarms</Message>
+  </LogEntry>
+</LogFile>
